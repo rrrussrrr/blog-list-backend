@@ -1,3 +1,6 @@
 node_modules/
 .env
 requests/
+utils/for_testing.js
+utils/list_helper.js
+tests/
